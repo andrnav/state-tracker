@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/state-tracker/static/css/main.a62d66be.css",
+    "main.js": "/state-tracker/static/js/main.44b935a6.js",
+    "index.html": "/state-tracker/index.html",
+    "main.a62d66be.css.map": "/state-tracker/static/css/main.a62d66be.css.map",
+    "main.44b935a6.js.map": "/state-tracker/static/js/main.44b935a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a62d66be.css",
+    "static/js/main.44b935a6.js"
+  ]
+}
